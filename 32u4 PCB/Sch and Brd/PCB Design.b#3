@@ -158,6 +158,7 @@
 <layer number="255" name="routoute" color="7" fill="1" visible="yes" active="yes"/>
 </layers>
 <board>
+<fusionsync huburn="a.cGVyc29uYWw6dWUyYjVjYWE5" projecturn="a.cGVyc29uYWw6dWUyYjVjYWE5IzIwMTkwMTAxMTY3OTkxMjAx" f3durn="urn:adsk.wipprod:dm.lineage:2q5oUPCKQyGGpOH8fXxnnQ" pcbguid="b671a44c-f505-4a03-bd31-74e33a6c674f" lastpulledtime="2019-01-01T16:30:27Z" lastsyncedchangeguid="e515e837-928a-3282-d79e-572ac5ad60c3"/>
 <plain>
 <text x="53.594" y="12.192" size="1.27" layer="21" font="vector" ratio="10" rot="R90">AREF</text>
 <text x="71.374" y="12.192" size="1.27" layer="21" font="vector" ratio="10" rot="R90">PC5</text>
@@ -470,15 +471,15 @@
 <rectangle x1="132.6007" y1="62.5475" x2="136.2583" y2="62.6237" layer="21"/>
 <rectangle x1="127.6477" y1="62.6237" x2="132.2959" y2="62.6999" layer="21"/>
 <rectangle x1="132.6007" y1="62.6237" x2="136.2583" y2="62.6999" layer="21"/>
-<wire x1="7.366" y1="70.358" x2="103.124" y2="70.358" width="0.254" layer="20"/>
-<wire x1="103.124" y1="70.358" x2="103.124" y2="5.715" width="0.254" layer="20"/>
-<wire x1="103.124" y1="5.715" x2="7.366" y2="5.715" width="0.254" layer="20"/>
-<wire x1="7.366" y1="5.715" x2="7.366" y2="70.358" width="0.254" layer="20"/>
 <text x="22.86" y="10.414" size="1.27" layer="21">+</text>
 <text x="27.94" y="10.414" size="1.27" layer="21">+</text>
 <text x="96.52" y="67.31" size="1.27" layer="21">+</text>
 <text x="100.076" y="67.31" size="1.27" layer="21">+</text>
 <text x="145.288" y="49.022" size="1.016" layer="21" font="vector" ratio="10" rot="R90">V2</text>
+<wire x1="7.366" y1="70.358" x2="103.124" y2="70.358" width="0.254" layer="20"/>
+<wire x1="103.124" y1="70.358" x2="103.124" y2="5.715" width="0.254" layer="20"/>
+<wire x1="103.124" y1="5.715" x2="7.366" y2="5.715" width="0.254" layer="20"/>
+<wire x1="7.366" y1="5.715" x2="7.366" y2="70.358" width="0.254" layer="20"/>
 </plain>
 <libraries>
 <library name="crystal">
@@ -6409,6 +6410,11 @@ which will not be processed correctly with this version.
 Since Version 8.2, EAGLE supports online libraries. The ids
 of those online libraries will not be understood (or retained)
 with this version.
+</note>
+<note version="8.3" severity="warning">
+Since Version 8.3, EAGLE supports Fusion synchronisation.
+This feature will not be available in this version and saving
+the document will break the link to the Fusion PCB feature.
 </note>
 <note version="8.3" severity="warning">
 Since Version 8.3, EAGLE supports URNs for individual library
