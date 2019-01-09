@@ -5772,11 +5772,11 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <element name="JP5" library="SparkFun-Jumpers" library_urn="urn:adsk.eagle:library:528" package="SMT-JUMPER_3_1-NC_PASTE_SILK" package3d_urn="urn:adsk.eagle:package:39293/1" value="JUMPER-SMT_3_1-NC_PASTE_SILK" x="-40.64" y="-85.09"/>
 <element name="I2C_OLED" library="pinhead" library_urn="urn:adsk.eagle:library:325" package="1X04" package3d_urn="urn:adsk.eagle:package:22407/2" value="" x="99.568" y="13.716" rot="R270"/>
 <element name="SPI_SD_CARD" library="pinhead" library_urn="urn:adsk.eagle:library:325" package="1X06" package3d_urn="urn:adsk.eagle:package:22472/2" value="" x="109.728" y="44.958" rot="R270"/>
-<element name="X1" library="con-ptr500" library_urn="urn:adsk.eagle:library:181" package="AK500/2-H" package3d_urn="urn:adsk.eagle:package:9901/1" value="" x="-54.356" y="-76.708">
-<attribute name="MF" value="" x="-54.356" y="-76.708" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="" x="-54.356" y="-76.708" size="1.778" layer="27" display="off"/>
-<attribute name="OC_FARNELL" value="unknown" x="-54.356" y="-76.708" size="1.778" layer="27" display="off"/>
-<attribute name="OC_NEWARK" value="unknown" x="-54.356" y="-76.708" size="1.778" layer="27" display="off"/>
+<element name="X1" library="con-ptr500" library_urn="urn:adsk.eagle:library:181" package="AK500/2-H" package3d_urn="urn:adsk.eagle:package:9901/1" value="" x="12.192" y="52.832" rot="R90">
+<attribute name="MF" value="" x="12.192" y="52.832" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MPN" value="" x="12.192" y="52.832" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="OC_FARNELL" value="unknown" x="12.192" y="52.832" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="OC_NEWARK" value="unknown" x="12.192" y="52.832" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 </elements>
 <signals>
@@ -5889,7 +5889,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <wire x1="-41.4528" y1="-67.818" x2="-29.9212" y2="-67.818" width="0" layer="19" extent="1-1"/>
 <wire x1="-39.8272" y1="-81.026" x2="-41.4528" y2="-67.818" width="0" layer="19" extent="1-1"/>
 <wire x1="-41.4528" y1="-85.09" x2="-39.8272" y2="-81.026" width="0" layer="19" extent="1-1"/>
-<wire x1="-56.8706" y1="-76.708" x2="-41.4528" y2="-85.09" width="0" layer="19" extent="1-1"/>
+<wire x1="12.192" y1="50.3174" x2="-41.4528" y2="-85.09" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="PD1">
 <contactref element="U1" pad="19"/>
@@ -5906,7 +5906,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <contactref element="12V_DC" pad="PWR"/>
 <contactref element="C1" pad="+"/>
 <contactref element="X1" pad="2"/>
-<wire x1="19.532" y1="36.836" x2="-51.8414" y2="-76.708" width="0" layer="19" extent="1-1"/>
+<wire x1="19.532" y1="36.836" x2="12.192" y2="55.3466" width="0" layer="19" extent="1-1"/>
 <wire x1="24.384" y1="36.703" x2="19.532" y2="36.836" width="0" layer="19" extent="1-1"/>
 <wire x1="29.972" y1="34.798" x2="24.384" y2="36.703" width="0" layer="19" extent="1-1"/>
 <wire x1="22.082" y1="64.77" x2="19.532" y2="36.836" width="0" layer="19" extent="1-1"/>
