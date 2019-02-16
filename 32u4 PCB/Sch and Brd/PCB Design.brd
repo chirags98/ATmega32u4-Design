@@ -162,7 +162,7 @@
 <plain>
 <text x="25.908" y="0" size="1.27" layer="21" font="vector" ratio="12" rot="R180">Chirag Shah
 16/Feb/19</text>
-<text x="40.64" y="-0.254" size="1.27" layer="21" font="vector" ratio="12" rot="R180">ATmega 32u4
+<text x="40.64" y="-0.254" size="1.27" layer="21" font="vector" ratio="12" rot="R180">ATmega 32U4
 V1</text>
 <rectangle x1="42.6847" y1="43.8531" x2="42.9133" y2="43.9293" layer="21"/>
 <rectangle x1="42.6085" y1="43.9293" x2="42.9895" y2="44.0055" layer="21"/>

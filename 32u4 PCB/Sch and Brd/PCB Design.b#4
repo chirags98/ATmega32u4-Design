@@ -6551,7 +6551,8 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <wire x1="46.736" y1="12.192" x2="51.054" y2="12.192" width="0.254" layer="1"/>
 <wire x1="51.054" y1="12.192" x2="51.816" y2="12.954" width="0.254" layer="1"/>
 <via x="45.974" y="18.542" extent="1-16" drill="0.35"/>
-<wire x1="45.974" y1="18.542" x2="45.974" y2="10.668" width="0.254" layer="16"/>
+<wire x1="45.974" y1="18.542" x2="45.974" y2="17.526" width="0.254" layer="16"/>
+<wire x1="45.974" y1="17.526" x2="45.974" y2="10.668" width="0.254" layer="16"/>
 <wire x1="41.517" y1="19.558" x2="44.958" y2="19.558" width="0.254" layer="1"/>
 <wire x1="44.958" y1="19.558" x2="45.974" y2="18.542" width="0.254" layer="1"/>
 </signal>
@@ -6731,7 +6732,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <mfgpreviewcolor name="soldermaskcolor" color="0xC8FF0000"/>
 <mfgpreviewcolor name="silkscreencolor" color="0xFFFEFEFE"/>
 <mfgpreviewcolor name="backgroundcolor" color="0xFF282828"/>
-<mfgpreviewcolor name="coppercolor" color="0xFFFFBF00"/>
+<mfgpreviewcolor name="coppercolor" color="0xFFE1E1E1"/>
 <mfgpreviewcolor name="substratecolor" color="0xFF786E46"/>
 </mfgpreviewcolors>
 </board>
