@@ -19384,11 +19384,6 @@ Amotec Display part ADM0802A PDF
 <attribute name="OC_FARNELL" value="unknown"/>
 </part>
 <part name="GND3" library="supply1" deviceset="GND" device=""/>
-<part name="I2C" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X4" device="" package3d_urn="urn:adsk.eagle:package:22407/2">
-<attribute name="MF" value=""/>
-<attribute name="MPN" value=""/>
-<attribute name="OC_FARNELL" value="unknown"/>
-</part>
 <part name="C2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0805K" value=".1uF">
 <attribute name="MF" value=""/>
 <attribute name="MPN" value=""/>
@@ -19445,6 +19440,7 @@ Amotec Display part ADM0802A PDF
 <attribute name="MPN" value=""/>
 <attribute name="OC_FARNELL" value="unknown"/>
 </part>
+<part name="I2C" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-2X4" device="" package3d_urn="urn:adsk.eagle:package:22461/2"/>
 </parts>
 <sheets>
 <sheet>
@@ -19753,11 +19749,6 @@ Amotec Display part ADM0802A PDF
 <attribute name="MF" x="139.7" y="-114.3" size="1.778" layer="96" display="off"/>
 <attribute name="MPN" x="139.7" y="-114.3" size="1.778" layer="96" display="off"/>
 </instance>
-<instance part="I2C" gate="A" x="160.02" y="-66.04">
-<attribute name="OC_FARNELL" x="160.02" y="-66.04" size="1.778" layer="96" display="off"/>
-<attribute name="MF" x="160.02" y="-66.04" size="1.778" layer="96" display="off"/>
-<attribute name="MPN" x="160.02" y="-66.04" size="1.778" layer="96" display="off"/>
-</instance>
 <instance part="C2" gate="G$1" x="78.74" y="106.68">
 <attribute name="OC_FARNELL" x="78.74" y="106.68" size="1.778" layer="96" display="off"/>
 <attribute name="MF" x="78.74" y="106.68" size="1.778" layer="96" display="off"/>
@@ -19822,6 +19813,7 @@ Amotec Display part ADM0802A PDF
 <attribute name="MF" x="104.14" y="-59.69" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="104.14" y="-59.69" size="1.778" layer="96" rot="R180" display="off"/>
 </instance>
+<instance part="I2C" gate="A" x="162.56" y="-66.04"/>
 </instances>
 <busses>
 </busses>
@@ -19968,9 +19960,10 @@ Amotec Display part ADM0802A PDF
 <label x="132.08" y="-104.14" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="I2C" gate="A" pin="2"/>
 <wire x1="157.48" y1="-63.5" x2="152.4" y2="-63.5" width="0.1524" layer="91"/>
 <label x="152.4" y="-63.5" size="1.016" layer="95" rot="R180" xref="yes"/>
+<pinref part="I2C" gate="A" pin="3"/>
+<wire x1="160.02" y1="-63.5" x2="157.48" y2="-63.5" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="P+1" gate="1" pin="+5V"/>
@@ -20204,9 +20197,10 @@ Amotec Display part ADM0802A PDF
 <label x="132.08" y="-106.68" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="I2C" gate="A" pin="1"/>
 <wire x1="157.48" y1="-60.96" x2="152.4" y2="-60.96" width="0.1524" layer="91"/>
 <label x="152.4" y="-60.96" size="1.016" layer="95" rot="R180" xref="yes"/>
+<pinref part="I2C" gate="A" pin="1"/>
+<wire x1="157.48" y1="-60.96" x2="160.02" y2="-60.96" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="GND19" gate="1" pin="GND"/>
@@ -20261,9 +20255,10 @@ Amotec Display part ADM0802A PDF
 <label x="132.08" y="-111.76" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="I2C" gate="A" pin="3"/>
 <wire x1="157.48" y1="-66.04" x2="152.4" y2="-66.04" width="0.1524" layer="91"/>
 <label x="152.4" y="-66.04" size="1.016" layer="95" rot="R180" xref="yes"/>
+<pinref part="I2C" gate="A" pin="5"/>
+<wire x1="160.02" y1="-66.04" x2="157.48" y2="-66.04" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <wire x1="101.6" y1="-68.58" x2="104.14" y2="-68.58" width="0.1524" layer="91"/>
@@ -20680,9 +20675,10 @@ Amotec Display part ADM0802A PDF
 <label x="132.08" y="-109.22" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="I2C" gate="A" pin="4"/>
 <wire x1="157.48" y1="-68.58" x2="152.4" y2="-68.58" width="0.1524" layer="91"/>
 <label x="152.4" y="-68.58" size="1.016" layer="95" rot="R180" xref="yes"/>
+<pinref part="I2C" gate="A" pin="7"/>
+<wire x1="160.02" y1="-68.58" x2="157.48" y2="-68.58" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <wire x1="86.36" y1="-68.58" x2="91.44" y2="-68.58" width="0.1524" layer="91"/>

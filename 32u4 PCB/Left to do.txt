@@ -1,5 +1,0 @@
-verify bluetooth pinouts
-verify usb package
-verify MPU pinout
-
-

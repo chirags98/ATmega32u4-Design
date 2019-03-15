@@ -5376,7 +5376,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <attribute name="PROD_ID" value="DIO-08575" x="40.64" y="17.653" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="40.64" y="18.288" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="R9" library="resistor" library_urn="urn:adsk.eagle:library:348" package="M0805" value="330" x="36.068" y="18.034" smashed="yes">
+<element name="R9" library="resistor" library_urn="urn:adsk.eagle:library:348" package="M0805" value="1k" x="36.068" y="18.034" smashed="yes">
 <attribute name="MF" value="" x="36.068" y="18.034" size="1.778" layer="27" display="off"/>
 <attribute name="MPN" value="" x="36.068" y="18.034" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="34.544" y="19.05" size="1.016" layer="21" font="vector" ratio="12"/>
@@ -5391,7 +5391,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <attribute name="PROD_ID" value="DIO-08575" x="63.754" y="-0.254" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="63.119" y="-0.254" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
 </element>
-<element name="R18" library="resistor" library_urn="urn:adsk.eagle:library:348" package="M0805" value="330" x="69.342" y="-2.794" smashed="yes" rot="R180">
+<element name="R18" library="resistor" library_urn="urn:adsk.eagle:library:348" package="M0805" value="1k" x="69.342" y="-2.794" smashed="yes" rot="R180">
 <attribute name="MF" value="" x="69.342" y="-2.794" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MPN" value="" x="69.342" y="-2.794" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="NAME" x="64.77" y="-3.302" size="1.016" layer="21" font="vector" ratio="12" rot="R180" align="top-right"/>
@@ -5479,7 +5479,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <attribute name="PROD_ID" value="DIO-08575" x="40.386" y="9.398" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="40.64" y="16.383" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="R11" library="resistor" library_urn="urn:adsk.eagle:library:348" package="M0805" value="330" x="36.068" y="15.748" smashed="yes">
+<element name="R11" library="resistor" library_urn="urn:adsk.eagle:library:348" package="M0805" value="1k" x="36.068" y="15.748" smashed="yes">
 <attribute name="MF" value="" x="36.068" y="12.7" size="1.778" layer="27" display="off"/>
 <attribute name="MPN" value="" x="36.068" y="12.7" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="36.322" y="13.716" size="1.016" layer="21" font="vector" ratio="12"/>
@@ -5494,7 +5494,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <attribute name="PROD_ID" value="DIO-08575" x="40.386" y="13.208" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="40.64" y="20.193" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="R7" library="resistor" library_urn="urn:adsk.eagle:library:348" package="M0805" value="330" x="31.75" y="20.32" smashed="yes">
+<element name="R7" library="resistor" library_urn="urn:adsk.eagle:library:348" package="M0805" value="1k" x="31.75" y="20.32" smashed="yes">
 <attribute name="MF" value="" x="31.75" y="17.272" size="1.778" layer="27" display="off"/>
 <attribute name="MPN" value="" x="31.75" y="17.272" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="30.226" y="21.336" size="1.016" layer="21" font="vector" ratio="12"/>
