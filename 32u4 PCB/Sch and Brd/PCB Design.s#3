@@ -19147,7 +19147,7 @@ Amotec Display part ADM0802A PDF
 <part name="P+14" library="supply1" deviceset="+5V" device=""/>
 <part name="GND21" library="supply1" deviceset="GND" device=""/>
 <part name="GND20" library="supply1" deviceset="GND" device=""/>
-<part name="R13" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="M0805" value="220">
+<part name="R15" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="M0805" value="220">
 <attribute name="MF" value=""/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_FARNELL" value="unknown"/>
@@ -19222,7 +19222,7 @@ Amotec Display part ADM0802A PDF
 <attribute name="OC_FARNELL" value="unknown"/>
 </part>
 <part name="GND15" library="supply1" deviceset="GND" device=""/>
-<part name="R7" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="M0805" value="330">
+<part name="R9" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="M0805" value="1k">
 <attribute name="MF" value=""/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_FARNELL" value="unknown"/>
@@ -19232,7 +19232,7 @@ Amotec Display part ADM0802A PDF
 <attribute name="MPN" value=""/>
 <attribute name="OC_FARNELL" value="unknown"/>
 </part>
-<part name="R16" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="M0805" value="330">
+<part name="R18" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="M0805" value="1k">
 <attribute name="MF" value=""/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_FARNELL" value="unknown"/>
@@ -19298,7 +19298,7 @@ Amotec Display part ADM0802A PDF
 <attribute name="OC_FARNELL" value="unknown"/>
 </part>
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
-<part name="R9" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="M0805" value="330">
+<part name="R11" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="M0805" value="1k">
 <attribute name="MF" value=""/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_FARNELL" value="unknown"/>
@@ -19309,7 +19309,7 @@ Amotec Display part ADM0802A PDF
 <attribute name="OC_FARNELL" value="unknown"/>
 </part>
 <part name="GND9" library="supply1" deviceset="GND" device=""/>
-<part name="R5" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="M0805" value="330">
+<part name="R7" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="M0805" value="1k">
 <attribute name="MF" value=""/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_FARNELL" value="unknown"/>
@@ -19321,12 +19321,12 @@ Amotec Display part ADM0802A PDF
 </part>
 <part name="GND23" library="supply1" deviceset="GND" device=""/>
 <part name="P+17" library="supply1" deviceset="+5V" device=""/>
-<part name="R15" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="M0805" value="22">
+<part name="R17" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="M0805" value="22">
 <attribute name="MF" value=""/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_FARNELL" value="unknown"/>
 </part>
-<part name="R14" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="M0805" value="22">
+<part name="R16" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="M0805" value="22">
 <attribute name="MF" value=""/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_FARNELL" value="unknown"/>
@@ -19342,20 +19342,20 @@ Amotec Display part ADM0802A PDF
 <attribute name="MPN" value=""/>
 <attribute name="OC_FARNELL" value="unknown"/>
 </part>
-<part name="PB5" library="switch-omron" deviceset="10-XX" device="">
+<part name="PB2" library="switch-omron" deviceset="10-XX" device="">
 <attribute name="MF" value="OMRON"/>
 </part>
-<part name="R8" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="M0805" value="10K">
+<part name="R10" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="M0805" value="10K">
 <attribute name="MF" value=""/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_FARNELL" value="unknown"/>
 </part>
 <part name="P+18" library="supply1" deviceset="+5V" device=""/>
 <part name="GND25" library="supply1" deviceset="GND" device=""/>
-<part name="PB6" library="switch-omron" deviceset="10-XX" device="">
+<part name="PB1" library="switch-omron" deviceset="10-XX" device="">
 <attribute name="MF" value="OMRON"/>
 </part>
-<part name="R11" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="M0805" value="10K">
+<part name="R13" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="M0805" value="10K">
 <attribute name="MF" value=""/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_FARNELL" value="unknown"/>
@@ -19378,7 +19378,7 @@ Amotec Display part ADM0802A PDF
 <attribute name="MPN" value=""/>
 <attribute name="OC_FARNELL" value="unknown"/>
 </part>
-<part name="R12" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="M0805" value="4k7">
+<part name="R14" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="M0805" value="4k7">
 <attribute name="MF" value=""/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_FARNELL" value="unknown"/>
@@ -19401,7 +19401,7 @@ Amotec Display part ADM0802A PDF
 <attribute name="OC_FARNELL" value="unknown"/>
 </part>
 <part name="GND26" library="supply1" deviceset="GND" device=""/>
-<part name="R10" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="M0805" value="330">
+<part name="R12" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="M0805" value="330">
 <attribute name="MF" value=""/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_FARNELL" value="unknown"/>
@@ -19411,7 +19411,7 @@ Amotec Display part ADM0802A PDF
 <attribute name="MPN" value=""/>
 <attribute name="OC_FARNELL" value="unknown"/>
 </part>
-<part name="R6" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="M0805" value="330">
+<part name="R8" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="M0805" value="330">
 <attribute name="MF" value=""/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_FARNELL" value="unknown"/>
@@ -19430,12 +19430,12 @@ Amotec Display part ADM0802A PDF
 <part name="U1" library="MicroUSB" deviceset="USB" device="&quot;&quot;"/>
 <part name="P+19" library="supply1" deviceset="+5V" device=""/>
 <part name="P+21" library="supply1" deviceset="+5V" device=""/>
-<part name="R17" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="M0805" value="I2C">
+<part name="R5" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="M0805" value="I2C">
 <attribute name="MF" value=""/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_FARNELL" value="unknown"/>
 </part>
-<part name="R18" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="M0805" value="I2C">
+<part name="R6" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="M0805" value="I2C">
 <attribute name="MF" value=""/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_FARNELL" value="unknown"/>
@@ -19447,32 +19447,32 @@ Amotec Display part ADM0802A PDF
 <plain>
 </plain>
 <instances>
-<instance part="C3" gate="G$1" x="-138.43" y="6.35" smashed="yes" rot="R180">
-<attribute name="NAME" x="-139.954" y="5.969" size="1.778" layer="95" rot="R180"/>
-<attribute name="OC_FARNELL" x="-138.43" y="6.35" size="1.778" layer="96" display="off"/>
-<attribute name="MF" x="-138.43" y="6.35" size="1.778" layer="96" display="off"/>
-<attribute name="MPN" x="-138.43" y="6.35" size="1.778" layer="96" display="off"/>
+<instance part="C3" gate="G$1" x="-80.01" y="-31.75" smashed="yes" rot="R180">
+<attribute name="NAME" x="-81.534" y="-32.131" size="1.778" layer="95" rot="R180"/>
+<attribute name="OC_FARNELL" x="-80.01" y="-31.75" size="1.778" layer="96" display="off"/>
+<attribute name="MF" x="-80.01" y="-31.75" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="-80.01" y="-31.75" size="1.778" layer="96" display="off"/>
 </instance>
-<instance part="C4" gate="G$1" x="-123.19" y="6.35" smashed="yes" rot="R180">
-<attribute name="NAME" x="-117.094" y="5.969" size="1.778" layer="95" rot="R180"/>
-<attribute name="OC_FARNELL" x="-123.19" y="6.35" size="1.778" layer="96" display="off"/>
-<attribute name="MF" x="-123.19" y="6.35" size="1.778" layer="96" display="off"/>
-<attribute name="MPN" x="-123.19" y="6.35" size="1.778" layer="96" display="off"/>
+<instance part="C4" gate="G$1" x="-64.77" y="-31.75" smashed="yes" rot="R180">
+<attribute name="NAME" x="-58.674" y="-32.131" size="1.778" layer="95" rot="R180"/>
+<attribute name="OC_FARNELL" x="-64.77" y="-31.75" size="1.778" layer="96" display="off"/>
+<attribute name="MF" x="-64.77" y="-31.75" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="-64.77" y="-31.75" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="P+5" gate="1" x="38.1" y="86.36" smashed="yes" rot="R90">
 <attribute name="VALUE" x="38.1" y="88.9" size="1.778" layer="96" rot="R180"/>
 </instance>
 <instance part="GND11" gate="1" x="40.64" y="17.78"/>
-<instance part="P+3" gate="1" x="-99.06" y="66.04" smashed="yes">
-<attribute name="VALUE" x="-96.52" y="60.96" size="1.778" layer="96" rot="R90"/>
+<instance part="P+3" gate="1" x="-40.64" y="27.94" smashed="yes">
+<attribute name="VALUE" x="-38.1" y="22.86" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="GND6" gate="1" x="-99.06" y="43.18"/>
-<instance part="Q1" gate="G$1" x="-132.08" y="11.43" smashed="yes">
-<attribute name="NAME" x="-130.048" y="14.986" size="1.778" layer="95"/>
-<attribute name="VALUE" x="-130.556" y="12.954" size="1.778" layer="96"/>
+<instance part="GND6" gate="1" x="-40.64" y="5.08"/>
+<instance part="Q1" gate="G$1" x="-73.66" y="-26.67" smashed="yes">
+<attribute name="NAME" x="-71.628" y="-23.114" size="1.778" layer="95"/>
+<attribute name="VALUE" x="-72.136" y="-25.146" size="1.778" layer="96"/>
 </instance>
-<instance part="GND8" gate="1" x="-138.43" y="-3.81"/>
-<instance part="GND10" gate="1" x="-123.19" y="-3.81"/>
+<instance part="GND8" gate="1" x="-80.01" y="-41.91"/>
+<instance part="GND10" gate="1" x="-64.77" y="-41.91"/>
 <instance part="RESET" gate="1" x="58.42" y="111.76" rot="MR270"/>
 <instance part="GND12" gate="1" x="48.26" y="101.6"/>
 <instance part="P+8" gate="1" x="91.44" y="127" smashed="yes">
@@ -19507,15 +19507,15 @@ Amotec Display part ADM0802A PDF
 <attribute name="MF" x="71.12" y="170.18" size="1.778" layer="96" display="off"/>
 <attribute name="MPN" x="71.12" y="170.18" size="1.778" layer="96" display="off"/>
 </instance>
-<instance part="C10" gate="G$1" x="-106.68" y="55.88">
-<attribute name="OC_FARNELL" x="-106.68" y="55.88" size="1.778" layer="96" display="off"/>
-<attribute name="MF" x="-106.68" y="55.88" size="1.778" layer="96" display="off"/>
-<attribute name="MPN" x="-106.68" y="55.88" size="1.778" layer="96" display="off"/>
+<instance part="C10" gate="G$1" x="-48.26" y="17.78">
+<attribute name="OC_FARNELL" x="-48.26" y="17.78" size="1.778" layer="96" display="off"/>
+<attribute name="MF" x="-48.26" y="17.78" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="-48.26" y="17.78" size="1.778" layer="96" display="off"/>
 </instance>
-<instance part="P+2" gate="1" x="-106.68" y="66.04" smashed="yes">
-<attribute name="VALUE" x="-104.14" y="60.96" size="1.778" layer="96" rot="R90"/>
+<instance part="P+2" gate="1" x="-48.26" y="27.94" smashed="yes">
+<attribute name="VALUE" x="-45.72" y="22.86" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="GND5" gate="1" x="-106.68" y="43.18"/>
+<instance part="GND5" gate="1" x="-48.26" y="5.08"/>
 <instance part="GND4" gate="1" x="-17.78" y="132.08"/>
 <instance part="12V_DC" gate="G$1" x="-25.4" y="137.16" smashed="yes">
 <attribute name="NAME" x="-35.56" y="147.32" size="1.778" layer="95" font="vector"/>
@@ -19540,10 +19540,10 @@ Amotec Display part ADM0802A PDF
 <attribute name="MF" x="91.44" y="116.84" size="1.778" layer="96" rot="R270" display="off"/>
 <attribute name="MPN" x="91.44" y="116.84" size="1.778" layer="96" rot="R270" display="off"/>
 </instance>
-<instance part="C6" gate="G$1" x="-99.06" y="55.88">
-<attribute name="OC_FARNELL" x="-99.06" y="55.88" size="1.778" layer="96" display="off"/>
-<attribute name="MF" x="-99.06" y="55.88" size="1.778" layer="96" display="off"/>
-<attribute name="MPN" x="-99.06" y="55.88" size="1.778" layer="96" display="off"/>
+<instance part="C6" gate="G$1" x="-40.64" y="17.78">
+<attribute name="OC_FARNELL" x="-40.64" y="17.78" size="1.778" layer="96" display="off"/>
+<attribute name="MF" x="-40.64" y="17.78" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="-40.64" y="17.78" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C9" gate="G$1" x="-73.66" y="59.69">
 <attribute name="OC_FARNELL" x="-73.66" y="59.69" size="1.778" layer="96" display="off"/>
@@ -19574,7 +19574,7 @@ Amotec Display part ADM0802A PDF
 <attribute name="MPN" x="68.58" y="0" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND15" gate="1" x="68.58" y="-20.32"/>
-<instance part="R7" gate="G$1" x="68.58" y="-11.43" rot="R90">
+<instance part="R9" gate="G$1" x="68.58" y="-11.43" rot="R90">
 <attribute name="OC_FARNELL" x="68.58" y="-11.43" size="1.778" layer="96" display="off"/>
 <attribute name="MF" x="68.58" y="-11.43" size="1.778" layer="96" display="off"/>
 <attribute name="MPN" x="68.58" y="-11.43" size="1.778" layer="96" display="off"/>
@@ -19584,7 +19584,7 @@ Amotec Display part ADM0802A PDF
 <attribute name="MF" x="119.38" y="137.16" size="1.778" layer="96" display="off"/>
 <attribute name="MPN" x="119.38" y="137.16" size="1.778" layer="96" display="off"/>
 </instance>
-<instance part="R16" gate="G$1" x="119.38" y="124.46" rot="R90">
+<instance part="R18" gate="G$1" x="119.38" y="124.46" rot="R90">
 <attribute name="OC_FARNELL" x="119.38" y="124.46" size="1.778" layer="96" display="off"/>
 <attribute name="MF" x="119.38" y="124.46" size="1.778" layer="96" display="off"/>
 <attribute name="MPN" x="119.38" y="124.46" size="1.778" layer="96" display="off"/>
@@ -19613,31 +19613,31 @@ Amotec Display part ADM0802A PDF
 <attribute name="MF" x="132.08" y="0" size="1.778" layer="96" display="off"/>
 <attribute name="MPN" x="132.08" y="0" size="1.778" layer="96" display="off"/>
 </instance>
-<instance part="TX" gate="G$1" x="-119.38" y="59.69">
-<attribute name="OC_FARNELL" x="-119.38" y="59.69" size="1.778" layer="96" display="off"/>
-<attribute name="MF" x="-119.38" y="59.69" size="1.778" layer="96" display="off"/>
-<attribute name="MPN" x="-119.38" y="59.69" size="1.778" layer="96" display="off"/>
+<instance part="TX" gate="G$1" x="-60.96" y="21.59">
+<attribute name="OC_FARNELL" x="-60.96" y="21.59" size="1.778" layer="96" display="off"/>
+<attribute name="MF" x="-60.96" y="21.59" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="-60.96" y="21.59" size="1.778" layer="96" display="off"/>
 </instance>
-<instance part="RX" gate="G$1" x="-133.35" y="59.69">
-<attribute name="OC_FARNELL" x="-133.35" y="59.69" size="1.778" layer="96" display="off"/>
-<attribute name="MF" x="-133.35" y="59.69" size="1.778" layer="96" display="off"/>
-<attribute name="MPN" x="-133.35" y="59.69" size="1.778" layer="96" display="off"/>
+<instance part="RX" gate="G$1" x="-74.93" y="21.59">
+<attribute name="OC_FARNELL" x="-74.93" y="21.59" size="1.778" layer="96" display="off"/>
+<attribute name="MF" x="-74.93" y="21.59" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="-74.93" y="21.59" size="1.778" layer="96" display="off"/>
 </instance>
-<instance part="R3" gate="G$1" x="-133.35" y="45.72" rot="R90">
-<attribute name="OC_FARNELL" x="-133.35" y="45.72" size="1.778" layer="96" display="off"/>
-<attribute name="MF" x="-133.35" y="45.72" size="1.778" layer="96" display="off"/>
-<attribute name="MPN" x="-133.35" y="45.72" size="1.778" layer="96" display="off"/>
+<instance part="R3" gate="G$1" x="-74.93" y="7.62" rot="R90">
+<attribute name="OC_FARNELL" x="-74.93" y="7.62" size="1.778" layer="96" display="off"/>
+<attribute name="MF" x="-74.93" y="7.62" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="-74.93" y="7.62" size="1.778" layer="96" display="off"/>
 </instance>
-<instance part="R2" gate="G$1" x="-119.38" y="45.72" rot="R90">
-<attribute name="OC_FARNELL" x="-119.38" y="45.72" size="1.778" layer="96" display="off"/>
-<attribute name="MF" x="-119.38" y="45.72" size="1.778" layer="96" display="off"/>
-<attribute name="MPN" x="-119.38" y="45.72" size="1.778" layer="96" display="off"/>
+<instance part="R2" gate="G$1" x="-60.96" y="7.62" rot="R90">
+<attribute name="OC_FARNELL" x="-60.96" y="7.62" size="1.778" layer="96" display="off"/>
+<attribute name="MF" x="-60.96" y="7.62" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="-60.96" y="7.62" size="1.778" layer="96" display="off"/>
 </instance>
-<instance part="P+15" gate="1" x="-133.35" y="67.31" smashed="yes">
-<attribute name="VALUE" x="-130.81" y="62.23" size="1.778" layer="96" rot="R90"/>
+<instance part="P+15" gate="1" x="-74.93" y="29.21" smashed="yes">
+<attribute name="VALUE" x="-72.39" y="24.13" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="P+16" gate="1" x="-119.38" y="67.31" smashed="yes">
-<attribute name="VALUE" x="-116.84" y="62.23" size="1.778" layer="96" rot="R90"/>
+<instance part="P+16" gate="1" x="-60.96" y="29.21" smashed="yes">
+<attribute name="VALUE" x="-58.42" y="24.13" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="32U4" gate="A" x="60.96" y="55.88">
 <attribute name="OC_FARNELL" x="60.96" y="55.88" size="1.778" layer="96" display="off"/>
@@ -19660,7 +19660,7 @@ Amotec Display part ADM0802A PDF
 <attribute name="MPN" x="55.88" y="0" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND2" gate="1" x="55.88" y="-20.32"/>
-<instance part="R9" gate="G$1" x="55.88" y="-11.43" rot="R90">
+<instance part="R11" gate="G$1" x="55.88" y="-11.43" rot="R90">
 <attribute name="OC_FARNELL" x="55.88" y="-11.43" size="1.778" layer="96" display="off"/>
 <attribute name="MF" x="55.88" y="-11.43" size="1.778" layer="96" display="off"/>
 <attribute name="MPN" x="55.88" y="-11.43" size="1.778" layer="96" display="off"/>
@@ -19671,7 +19671,7 @@ Amotec Display part ADM0802A PDF
 <attribute name="MPN" x="41.91" y="0" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND9" gate="1" x="41.91" y="-20.32"/>
-<instance part="R5" gate="G$1" x="41.91" y="-11.43" rot="R90">
+<instance part="R7" gate="G$1" x="41.91" y="-11.43" rot="R90">
 <attribute name="OC_FARNELL" x="41.91" y="-11.43" size="1.778" layer="96" display="off"/>
 <attribute name="MF" x="41.91" y="-11.43" size="1.778" layer="96" display="off"/>
 <attribute name="MPN" x="41.91" y="-11.43" size="1.778" layer="96" display="off"/>
@@ -19681,18 +19681,18 @@ Amotec Display part ADM0802A PDF
 <attribute name="MF" x="132.08" y="-17.78" size="1.778" layer="96" display="off"/>
 <attribute name="MPN" x="132.08" y="-17.78" size="1.778" layer="96" display="off"/>
 </instance>
-<instance part="GND23" gate="1" x="-64.77" y="102.87"/>
-<instance part="P+17" gate="1" x="-64.77" y="95.25" smashed="yes" rot="R270">
-<attribute name="VALUE" x="-69.85" y="92.71" size="1.778" layer="96"/>
+<instance part="GND23" gate="1" x="-64.77" y="104.14"/>
+<instance part="P+17" gate="1" x="-66.04" y="96.52" smashed="yes" rot="R270">
+<attribute name="VALUE" x="-71.12" y="93.98" size="1.778" layer="96"/>
 </instance>
-<instance part="R15" gate="G$1" x="24.13" y="68.58" smashed="yes" rot="R180">
+<instance part="R17" gate="G$1" x="24.13" y="68.58" smashed="yes" rot="R180">
 <attribute name="OC_FARNELL" x="24.13" y="68.58" size="1.778" layer="96" rot="R90" display="off"/>
 <attribute name="MF" x="24.13" y="68.58" size="1.778" layer="96" rot="R90" display="off"/>
 <attribute name="MPN" x="24.13" y="68.58" size="1.778" layer="96" rot="R90" display="off"/>
 <attribute name="NAME" x="24.13" y="72.1614" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="27.94" y="71.882" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="R14" gate="G$1" x="24.13" y="66.04" smashed="yes" rot="R180">
+<instance part="R16" gate="G$1" x="24.13" y="66.04" smashed="yes" rot="R180">
 <attribute name="OC_FARNELL" x="24.13" y="66.04" size="1.778" layer="96" rot="R90" display="off"/>
 <attribute name="MF" x="24.13" y="66.04" size="1.778" layer="96" rot="R90" display="off"/>
 <attribute name="MPN" x="24.13" y="66.04" size="1.778" layer="96" rot="R90" display="off"/>
@@ -19712,8 +19712,8 @@ Amotec Display part ADM0802A PDF
 <attribute name="MF" x="132.08" y="-36.83" size="1.778" layer="96" display="off"/>
 <attribute name="MPN" x="132.08" y="-36.83" size="1.778" layer="96" display="off"/>
 </instance>
-<instance part="PB5" gate="1" x="12.7" y="-55.88" rot="R270"/>
-<instance part="R8" gate="G$1" x="34.29" y="-52.07" rot="R270">
+<instance part="PB2" gate="1" x="12.7" y="-55.88" rot="R270"/>
+<instance part="R10" gate="G$1" x="34.29" y="-52.07" rot="R270">
 <attribute name="OC_FARNELL" x="34.29" y="-52.07" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MF" x="34.29" y="-52.07" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="34.29" y="-52.07" size="1.778" layer="96" rot="R180" display="off"/>
@@ -19722,8 +19722,8 @@ Amotec Display part ADM0802A PDF
 <attribute name="VALUE" x="31.75" y="-41.91" size="1.778" layer="96" rot="R180"/>
 </instance>
 <instance part="GND25" gate="1" x="1.27" y="-67.31"/>
-<instance part="PB6" gate="1" x="12.7" y="-100.33" rot="R270"/>
-<instance part="R11" gate="G$1" x="35.56" y="-95.25" rot="R270">
+<instance part="PB1" gate="1" x="12.7" y="-100.33" rot="R270"/>
+<instance part="R13" gate="G$1" x="35.56" y="-95.25" rot="R270">
 <attribute name="OC_FARNELL" x="35.56" y="-95.25" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MF" x="35.56" y="-95.25" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="35.56" y="-95.25" size="1.778" layer="96" rot="R180" display="off"/>
@@ -19766,7 +19766,7 @@ Amotec Display part ADM0802A PDF
 <attribute name="MPN" x="35.56" y="-109.22" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND26" gate="1" x="35.56" y="-119.38"/>
-<instance part="R10" gate="G$1" x="25.4" y="-102.87">
+<instance part="R12" gate="G$1" x="25.4" y="-102.87">
 <attribute name="OC_FARNELL" x="25.4" y="-102.87" size="1.778" layer="96" rot="R270" display="off"/>
 <attribute name="MF" x="25.4" y="-102.87" size="1.778" layer="96" rot="R270" display="off"/>
 <attribute name="MPN" x="25.4" y="-102.87" size="1.778" layer="96" rot="R270" display="off"/>
@@ -19776,20 +19776,20 @@ Amotec Display part ADM0802A PDF
 <attribute name="MF" x="34.29" y="-63.5" size="1.778" layer="96" display="off"/>
 <attribute name="MPN" x="34.29" y="-63.5" size="1.778" layer="96" display="off"/>
 </instance>
-<instance part="R6" gate="G$1" x="26.67" y="-60.96">
+<instance part="R8" gate="G$1" x="26.67" y="-60.96">
 <attribute name="OC_FARNELL" x="26.67" y="-60.96" size="1.778" layer="96" rot="R270" display="off"/>
 <attribute name="MF" x="26.67" y="-60.96" size="1.778" layer="96" rot="R270" display="off"/>
 <attribute name="MPN" x="26.67" y="-60.96" size="1.778" layer="96" rot="R270" display="off"/>
 </instance>
 <instance part="GND27" gate="1" x="34.29" y="-72.39"/>
-<instance part="P+1" gate="1" x="-91.44" y="66.04" smashed="yes">
-<attribute name="VALUE" x="-88.9" y="60.96" size="1.778" layer="96" rot="R90"/>
+<instance part="P+1" gate="1" x="-33.02" y="27.94" smashed="yes">
+<attribute name="VALUE" x="-30.48" y="22.86" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="GND29" gate="1" x="-91.44" y="43.18"/>
-<instance part="C7" gate="G$1" x="-91.44" y="55.88">
-<attribute name="OC_FARNELL" x="-91.44" y="55.88" size="1.778" layer="96" display="off"/>
-<attribute name="MF" x="-91.44" y="55.88" size="1.778" layer="96" display="off"/>
-<attribute name="MPN" x="-91.44" y="55.88" size="1.778" layer="96" display="off"/>
+<instance part="GND29" gate="1" x="-33.02" y="5.08"/>
+<instance part="C7" gate="G$1" x="-33.02" y="17.78">
+<attribute name="OC_FARNELL" x="-33.02" y="17.78" size="1.778" layer="96" display="off"/>
+<attribute name="MF" x="-33.02" y="17.78" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="-33.02" y="17.78" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="P+13" gate="1" x="200.66" y="76.2" smashed="yes" rot="R270">
 <attribute name="VALUE" x="195.58" y="73.66" size="1.778" layer="96"/>
@@ -19803,12 +19803,12 @@ Amotec Display part ADM0802A PDF
 <instance part="P+21" gate="1" x="91.44" y="-48.26" smashed="yes">
 <attribute name="VALUE" x="88.9" y="-49.53" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="R17" gate="G$1" x="91.44" y="-59.69" rot="R270">
+<instance part="R5" gate="G$1" x="91.44" y="-59.69" rot="R270">
 <attribute name="OC_FARNELL" x="91.44" y="-59.69" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MF" x="91.44" y="-59.69" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="91.44" y="-59.69" size="1.778" layer="96" rot="R180" display="off"/>
 </instance>
-<instance part="R18" gate="G$1" x="104.14" y="-59.69" rot="R270">
+<instance part="R6" gate="G$1" x="104.14" y="-59.69" rot="R270">
 <attribute name="OC_FARNELL" x="104.14" y="-59.69" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MF" x="104.14" y="-59.69" size="1.778" layer="96" rot="R180" display="off"/>
 <attribute name="MPN" x="104.14" y="-59.69" size="1.778" layer="96" rot="R180" display="off"/>
@@ -19821,7 +19821,7 @@ Amotec Display part ADM0802A PDF
 <net name="+5V" class="0">
 <segment>
 <pinref part="P+3" gate="1" pin="+5V"/>
-<wire x1="-99.06" y1="58.42" x2="-99.06" y2="63.5" width="0.1524" layer="91"/>
+<wire x1="-40.64" y1="20.32" x2="-40.64" y2="25.4" width="0.1524" layer="91"/>
 <pinref part="C6" gate="G$1" pin="1"/>
 </segment>
 <segment>
@@ -19846,7 +19846,7 @@ Amotec Display part ADM0802A PDF
 <segment>
 <pinref part="C10" gate="G$1" pin="1"/>
 <pinref part="P+2" gate="1" pin="+5V"/>
-<wire x1="-106.68" y1="58.42" x2="-106.68" y2="63.5" width="0.1524" layer="91"/>
+<wire x1="-48.26" y1="20.32" x2="-48.26" y2="25.4" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <label x="124.46" y="2.54" size="1.27" layer="95" rot="R180" xref="yes"/>
@@ -19875,12 +19875,12 @@ Amotec Display part ADM0802A PDF
 <segment>
 <pinref part="RX" gate="G$1" pin="A"/>
 <pinref part="P+15" gate="1" pin="+5V"/>
-<wire x1="-133.35" y1="64.77" x2="-133.35" y2="62.23" width="0.1524" layer="91"/>
+<wire x1="-74.93" y1="26.67" x2="-74.93" y2="24.13" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="TX" gate="G$1" pin="A"/>
 <pinref part="P+16" gate="1" pin="+5V"/>
-<wire x1="-119.38" y1="64.77" x2="-119.38" y2="62.23" width="0.1524" layer="91"/>
+<wire x1="-60.96" y1="26.67" x2="-60.96" y2="24.13" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="P+5" gate="1" pin="+5V"/>
@@ -19912,11 +19912,11 @@ Amotec Display part ADM0802A PDF
 <label x="39.37" y="53.34" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<wire x1="-73.66" y1="95.25" x2="-67.31" y2="95.25" width="0.1524" layer="91"/>
+<wire x1="-72.39" y1="96.52" x2="-68.58" y2="96.52" width="0.1524" layer="91"/>
 <pinref part="P+17" gate="1" pin="+5V"/>
 <pinref part="U1" gate="G$1" pin="VBUS"/>
 <wire x1="-76.2" y1="96.52" x2="-73.66" y2="96.52" width="0.1524" layer="91"/>
-<wire x1="-73.66" y1="96.52" x2="-73.66" y2="95.25" width="0.1524" layer="91"/>
+<wire x1="-73.66" y1="96.52" x2="-72.39" y2="96.52" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="POWER_PORT" gate="A" pin="2"/>
@@ -19935,13 +19935,13 @@ Amotec Display part ADM0802A PDF
 </segment>
 <segment>
 <pinref part="P+18" gate="1" pin="+5V"/>
-<pinref part="R8" gate="G$1" pin="1"/>
+<pinref part="R10" gate="G$1" pin="1"/>
 <wire x1="34.29" y1="-46.99" x2="34.29" y2="-44.45" width="0.1524" layer="91"/>
 <wire x1="34.29" y1="-44.45" x2="34.29" y2="-43.18" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="P+20" gate="1" pin="+5V"/>
-<pinref part="R11" gate="G$1" pin="1"/>
+<pinref part="R13" gate="G$1" pin="1"/>
 <wire x1="35.56" y1="-90.17" x2="35.56" y2="-86.36" width="0.1524" layer="91"/>
 </segment>
 <segment>
@@ -19970,7 +19970,7 @@ Amotec Display part ADM0802A PDF
 </segment>
 <segment>
 <pinref part="P+1" gate="1" pin="+5V"/>
-<wire x1="-91.44" y1="58.42" x2="-91.44" y2="63.5" width="0.1524" layer="91"/>
+<wire x1="-33.02" y1="20.32" x2="-33.02" y2="25.4" width="0.1524" layer="91"/>
 <pinref part="C7" gate="G$1" pin="1"/>
 </segment>
 <segment>
@@ -19981,13 +19981,13 @@ Amotec Display part ADM0802A PDF
 <wire x1="193.04" y1="76.2" x2="182.88" y2="76.2" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="R17" gate="G$1" pin="1"/>
+<pinref part="R5" gate="G$1" pin="1"/>
 <pinref part="P+21" gate="1" pin="+5V"/>
 <wire x1="91.44" y1="-54.61" x2="91.44" y2="-50.8" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="P+19" gate="1" pin="+5V"/>
-<pinref part="R18" gate="G$1" pin="1"/>
+<pinref part="R6" gate="G$1" pin="1"/>
 <wire x1="104.14" y1="-50.8" x2="104.14" y2="-54.61" width="0.1524" layer="91"/>
 </segment>
 </net>
@@ -20015,18 +20015,18 @@ Amotec Display part ADM0802A PDF
 </segment>
 <segment>
 <pinref part="GND6" gate="1" pin="GND"/>
-<wire x1="-99.06" y1="45.72" x2="-99.06" y2="50.8" width="0.1524" layer="91"/>
+<wire x1="-40.64" y1="7.62" x2="-40.64" y2="12.7" width="0.1524" layer="91"/>
 <pinref part="C6" gate="G$1" pin="2"/>
 </segment>
 <segment>
 <pinref part="GND8" gate="1" pin="GND"/>
 <pinref part="C3" gate="G$1" pin="1"/>
-<wire x1="-138.43" y1="3.81" x2="-138.43" y2="-1.27" width="0.1524" layer="91"/>
+<wire x1="-80.01" y1="-34.29" x2="-80.01" y2="-39.37" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="GND10" gate="1" pin="GND"/>
 <pinref part="C4" gate="G$1" pin="1"/>
-<wire x1="-123.19" y1="3.81" x2="-123.19" y2="-1.27" width="0.1524" layer="91"/>
+<wire x1="-64.77" y1="-34.29" x2="-64.77" y2="-39.37" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="RESET" gate="1" pin="S1"/>
@@ -20059,7 +20059,7 @@ Amotec Display part ADM0802A PDF
 <segment>
 <pinref part="GND5" gate="1" pin="GND"/>
 <pinref part="C10" gate="G$1" pin="2"/>
-<wire x1="-106.68" y1="45.72" x2="-106.68" y2="50.8" width="0.1524" layer="91"/>
+<wire x1="-48.26" y1="7.62" x2="-48.26" y2="12.7" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <wire x1="-22.86" y1="142.24" x2="-22.86" y2="139.7" width="0.1524" layer="91"/>
@@ -20111,12 +20111,12 @@ Amotec Display part ADM0802A PDF
 </segment>
 <segment>
 <pinref part="GND15" gate="1" pin="GND"/>
-<pinref part="R7" gate="G$1" pin="1"/>
+<pinref part="R9" gate="G$1" pin="1"/>
 <wire x1="68.58" y1="-17.78" x2="68.58" y2="-16.51" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="GND18" gate="1" pin="GND"/>
-<pinref part="R16" gate="G$1" pin="1"/>
+<pinref part="R18" gate="G$1" pin="1"/>
 <wire x1="119.38" y1="115.57" x2="119.38" y2="119.38" width="0.1524" layer="91"/>
 </segment>
 <segment>
@@ -20126,20 +20126,19 @@ Amotec Display part ADM0802A PDF
 </segment>
 <segment>
 <pinref part="GND2" gate="1" pin="GND"/>
-<pinref part="R9" gate="G$1" pin="1"/>
+<pinref part="R11" gate="G$1" pin="1"/>
 <wire x1="55.88" y1="-17.78" x2="55.88" y2="-16.51" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="GND9" gate="1" pin="GND"/>
-<pinref part="R5" gate="G$1" pin="1"/>
+<pinref part="R7" gate="G$1" pin="1"/>
 <wire x1="41.91" y1="-17.78" x2="41.91" y2="-16.51" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="GND23" gate="1" pin="GND"/>
-<wire x1="-64.77" y1="105.41" x2="-73.66" y2="105.41" width="0.1524" layer="91"/>
+<wire x1="-64.77" y1="106.68" x2="-73.66" y2="106.68" width="0.1524" layer="91"/>
 <pinref part="U1" gate="G$1" pin="GND"/>
 <wire x1="-76.2" y1="106.68" x2="-73.66" y2="106.68" width="0.1524" layer="91"/>
-<wire x1="-73.66" y1="106.68" x2="-73.66" y2="105.41" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="C5" gate="G$1" pin="-"/>
@@ -20163,8 +20162,8 @@ Amotec Display part ADM0802A PDF
 <segment>
 <pinref part="GND25" gate="1" pin="GND"/>
 <wire x1="1.27" y1="-64.77" x2="1.27" y2="-63.5" width="0.1524" layer="91"/>
-<pinref part="PB5" gate="1" pin="P1"/>
-<pinref part="PB5" gate="1" pin="P"/>
+<pinref part="PB2" gate="1" pin="P1"/>
+<pinref part="PB2" gate="1" pin="P"/>
 <wire x1="7.62" y1="-58.42" x2="7.62" y2="-55.88" width="0.1524" layer="91"/>
 <wire x1="6.35" y1="-58.42" x2="7.62" y2="-58.42" width="0.1524" layer="91"/>
 <junction x="7.62" y="-58.42"/>
@@ -20175,8 +20174,8 @@ Amotec Display part ADM0802A PDF
 <segment>
 <pinref part="GND28" gate="1" pin="GND"/>
 <wire x1="1.27" y1="-109.22" x2="1.27" y2="-107.95" width="0.1524" layer="91"/>
-<pinref part="PB6" gate="1" pin="P1"/>
-<pinref part="PB6" gate="1" pin="P"/>
+<pinref part="PB1" gate="1" pin="P1"/>
+<pinref part="PB1" gate="1" pin="P"/>
 <wire x1="7.62" y1="-102.87" x2="7.62" y2="-100.33" width="0.1524" layer="91"/>
 <wire x1="6.35" y1="-102.87" x2="7.62" y2="-102.87" width="0.1524" layer="91"/>
 <junction x="7.62" y="-102.87"/>
@@ -20225,7 +20224,7 @@ Amotec Display part ADM0802A PDF
 </segment>
 <segment>
 <pinref part="GND29" gate="1" pin="GND"/>
-<wire x1="-91.44" y1="45.72" x2="-91.44" y2="50.8" width="0.1524" layer="91"/>
+<wire x1="-33.02" y1="7.62" x2="-33.02" y2="12.7" width="0.1524" layer="91"/>
 <pinref part="C7" gate="G$1" pin="2"/>
 </segment>
 <segment>
@@ -20271,7 +20270,7 @@ Amotec Display part ADM0802A PDF
 </segment>
 <segment>
 <wire x1="101.6" y1="-68.58" x2="104.14" y2="-68.58" width="0.1524" layer="91"/>
-<pinref part="R18" gate="G$1" pin="2"/>
+<pinref part="R6" gate="G$1" pin="2"/>
 <wire x1="106.68" y1="-68.58" x2="109.22" y2="-68.58" width="0.1524" layer="91"/>
 <wire x1="104.14" y1="-64.77" x2="104.14" y2="-68.58" width="0.1524" layer="91"/>
 <wire x1="104.14" y1="-68.58" x2="106.68" y2="-68.58" width="0.1524" layer="91"/>
@@ -20301,8 +20300,8 @@ Amotec Display part ADM0802A PDF
 </segment>
 <segment>
 <pinref part="R3" gate="G$1" pin="1"/>
-<wire x1="-133.35" y1="40.64" x2="-133.35" y2="36.83" width="0.1524" layer="91"/>
-<label x="-133.35" y="36.83" size="1.778" layer="95" rot="R270" xref="yes"/>
+<wire x1="-74.93" y1="2.54" x2="-74.93" y2="-1.27" width="0.1524" layer="91"/>
+<label x="-74.93" y="-1.27" size="1.778" layer="95" rot="R270" xref="yes"/>
 </segment>
 <segment>
 <wire x1="185.42" y1="71.12" x2="187.96" y2="71.12" width="0.1524" layer="91"/>
@@ -20333,8 +20332,8 @@ Amotec Display part ADM0802A PDF
 </segment>
 <segment>
 <pinref part="R2" gate="G$1" pin="1"/>
-<wire x1="-119.38" y1="40.64" x2="-120.65" y2="38.1" width="0.1524" layer="91"/>
-<label x="-120.65" y="38.1" size="1.778" layer="95" rot="R270" xref="yes"/>
+<wire x1="-60.96" y1="2.54" x2="-62.23" y2="0" width="0.1524" layer="91"/>
+<label x="-62.23" y="0" size="1.778" layer="95" rot="R270" xref="yes"/>
 </segment>
 <segment>
 <label x="187.96" y="68.58" size="1.27" layer="95" xref="yes"/>
@@ -20579,8 +20578,8 @@ Amotec Display part ADM0802A PDF
 <junction x="129.54" y="68.58"/>
 </segment>
 <segment>
+<pinref part="R10" gate="G$1" pin="2"/>
 <pinref part="R8" gate="G$1" pin="2"/>
-<pinref part="R6" gate="G$1" pin="2"/>
 <pinref part="C13" gate="G$1" pin="1"/>
 <wire x1="31.75" y1="-60.96" x2="34.29" y2="-60.96" width="0.1524" layer="91"/>
 <wire x1="34.29" y1="-60.96" x2="48.26" y2="-60.96" width="0.1524" layer="91"/>
@@ -20604,7 +20603,7 @@ Amotec Display part ADM0802A PDF
 <junction x="129.54" y="66.04"/>
 </segment>
 <segment>
-<pinref part="R11" gate="G$1" pin="2"/>
+<pinref part="R13" gate="G$1" pin="2"/>
 <label x="46.99" y="-102.87" size="1.016" layer="95" xref="yes"/>
 <wire x1="31.75" y1="-102.87" x2="35.56" y2="-102.87" width="0.1524" layer="91"/>
 <wire x1="35.56" y1="-102.87" x2="46.99" y2="-102.87" width="0.1524" layer="91"/>
@@ -20612,7 +20611,7 @@ Amotec Display part ADM0802A PDF
 <junction x="35.56" y="-102.87"/>
 <pinref part="C15" gate="G$1" pin="1"/>
 <wire x1="35.56" y1="-106.68" x2="35.56" y2="-102.87" width="0.1524" layer="91"/>
-<pinref part="R10" gate="G$1" pin="2"/>
+<pinref part="R12" gate="G$1" pin="2"/>
 <wire x1="30.48" y1="-102.87" x2="31.75" y2="-102.87" width="0.1524" layer="91"/>
 </segment>
 </net>
@@ -20634,13 +20633,13 @@ Amotec Display part ADM0802A PDF
 <net name="N$1" class="0">
 <segment>
 <pinref part="PC6" gate="G$1" pin="C"/>
-<pinref part="R7" gate="G$1" pin="2"/>
+<pinref part="R9" gate="G$1" pin="2"/>
 <wire x1="68.58" y1="-6.35" x2="68.58" y2="-5.08" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$2" class="0">
 <segment>
-<pinref part="R16" gate="G$1" pin="2"/>
+<pinref part="R18" gate="G$1" pin="2"/>
 <pinref part="POW" gate="G$1" pin="C"/>
 <wire x1="119.38" y1="129.54" x2="119.38" y2="132.08" width="0.1524" layer="91"/>
 </segment>
@@ -20649,13 +20648,13 @@ Amotec Display part ADM0802A PDF
 <segment>
 <pinref part="R2" gate="G$1" pin="2"/>
 <pinref part="TX" gate="G$1" pin="C"/>
-<wire x1="-119.38" y1="50.8" x2="-119.38" y2="54.61" width="0.1524" layer="91"/>
+<wire x1="-60.96" y1="12.7" x2="-60.96" y2="16.51" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$9" class="0">
 <segment>
 <pinref part="RX" gate="G$1" pin="C"/>
-<wire x1="-133.35" y1="50.8" x2="-133.35" y2="54.61" width="0.1524" layer="91"/>
+<wire x1="-74.93" y1="12.7" x2="-74.93" y2="16.51" width="0.1524" layer="91"/>
 <pinref part="R3" gate="G$1" pin="2"/>
 </segment>
 </net>
@@ -20694,7 +20693,7 @@ Amotec Display part ADM0802A PDF
 </segment>
 <segment>
 <wire x1="86.36" y1="-68.58" x2="91.44" y2="-68.58" width="0.1524" layer="91"/>
-<pinref part="R17" gate="G$1" pin="2"/>
+<pinref part="R5" gate="G$1" pin="2"/>
 <wire x1="91.44" y1="-68.58" x2="96.52" y2="-68.58" width="0.1524" layer="91"/>
 <wire x1="91.44" y1="-64.77" x2="91.44" y2="-68.58" width="0.1524" layer="91"/>
 <junction x="91.44" y="-68.58"/>
@@ -20815,10 +20814,10 @@ Amotec Display part ADM0802A PDF
 <segment>
 <pinref part="C3" gate="G$1" pin="2"/>
 <pinref part="Q1" gate="G$1" pin="1"/>
-<wire x1="-138.43" y1="11.43" x2="-134.62" y2="11.43" width="0.1524" layer="91"/>
-<label x="-138.43" y="11.43" size="1.778" layer="95" rot="R180" xref="yes"/>
-<junction x="-134.62" y="11.43"/>
-<junction x="-138.43" y="11.43"/>
+<wire x1="-80.01" y1="-26.67" x2="-76.2" y2="-26.67" width="0.1524" layer="91"/>
+<label x="-80.01" y="-26.67" size="1.778" layer="95" rot="R180" xref="yes"/>
+<junction x="-76.2" y="-26.67"/>
+<junction x="-80.01" y="-26.67"/>
 </segment>
 </net>
 <net name="XTAL2" class="0">
@@ -20830,9 +20829,9 @@ Amotec Display part ADM0802A PDF
 <segment>
 <pinref part="Q1" gate="G$1" pin="2"/>
 <pinref part="C4" gate="G$1" pin="2"/>
-<wire x1="-129.54" y1="11.43" x2="-123.19" y2="11.43" width="0.1524" layer="91"/>
-<label x="-120.65" y="11.43" size="1.778" layer="95" xref="yes"/>
-<junction x="-129.54" y="11.43"/>
+<wire x1="-71.12" y1="-26.67" x2="-64.77" y2="-26.67" width="0.1524" layer="91"/>
+<label x="-62.23" y="-26.67" size="1.778" layer="95" xref="yes"/>
+<junction x="-71.12" y="-26.67"/>
 </segment>
 </net>
 <net name="RESET" class="0">
@@ -20872,14 +20871,14 @@ Amotec Display part ADM0802A PDF
 <net name="N$3" class="0">
 <segment>
 <pinref part="PE6" gate="G$1" pin="C"/>
-<pinref part="R9" gate="G$1" pin="2"/>
+<pinref part="R11" gate="G$1" pin="2"/>
 <wire x1="55.88" y1="-6.35" x2="55.88" y2="-5.08" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$7" class="0">
 <segment>
 <pinref part="PE2" gate="G$1" pin="C"/>
-<pinref part="R5" gate="G$1" pin="2"/>
+<pinref part="R7" gate="G$1" pin="2"/>
 <wire x1="41.91" y1="-6.35" x2="41.91" y2="-5.08" width="0.1524" layer="91"/>
 </segment>
 </net>
@@ -20960,42 +20959,40 @@ Amotec Display part ADM0802A PDF
 </net>
 <net name="D_USB_P" class="0">
 <segment>
-<wire x1="-73.66" y1="100.33" x2="-72.39" y2="100.33" width="0.1524" layer="91"/>
-<label x="-72.39" y="100.33" size="1.016" layer="95" xref="yes"/>
+<label x="-72.39" y="101.6" size="1.016" layer="95" xref="yes"/>
 <pinref part="U1" gate="G$1" pin="D+"/>
-<wire x1="-76.2" y1="101.6" x2="-73.66" y2="101.6" width="0.1524" layer="91"/>
-<wire x1="-73.66" y1="101.6" x2="-73.66" y2="100.33" width="0.1524" layer="91"/>
+<wire x1="-76.2" y1="101.6" x2="-72.39" y2="101.6" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="R14" gate="G$1" pin="2"/>
+<pinref part="R16" gate="G$1" pin="2"/>
 <wire x1="19.05" y1="66.04" x2="16.51" y2="66.04" width="0.1524" layer="91"/>
 <label x="16.51" y="66.04" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="D_USB_N" class="0">
 <segment>
-<label x="-72.39" y="97.79" size="1.016" layer="95" xref="yes"/>
+<label x="-72.39" y="99.06" size="1.016" layer="95" xref="yes"/>
 <pinref part="U1" gate="G$1" pin="D-"/>
-<wire x1="-72.39" y1="97.79" x2="-76.2" y2="97.79" width="0.1524" layer="91"/>
-<wire x1="-76.2" y1="97.79" x2="-76.2" y2="99.06" width="0.1524" layer="91"/>
+<wire x1="-72.39" y1="99.06" x2="-73.66" y2="99.06" width="0.1524" layer="91"/>
+<wire x1="-73.66" y1="99.06" x2="-76.2" y2="99.06" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="R15" gate="G$1" pin="2"/>
+<pinref part="R17" gate="G$1" pin="2"/>
 <wire x1="19.05" y1="68.58" x2="16.51" y2="68.58" width="0.1524" layer="91"/>
 <label x="16.51" y="68.58" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="ID" class="0">
 <segment>
-<label x="-72.39" y="102.87" size="1.016" layer="95" xref="yes"/>
+<label x="-71.12" y="104.14" size="1.016" layer="95" xref="yes"/>
 <pinref part="U1" gate="G$1" pin="USBID"/>
-<wire x1="-72.39" y1="102.87" x2="-76.2" y2="102.87" width="0.1524" layer="91"/>
-<wire x1="-76.2" y1="102.87" x2="-76.2" y2="104.14" width="0.1524" layer="91"/>
+<wire x1="-71.12" y1="104.14" x2="-74.93" y2="104.14" width="0.1524" layer="91"/>
+<wire x1="-74.93" y1="104.14" x2="-76.2" y2="104.14" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="D_N" class="0">
 <segment>
-<pinref part="R15" gate="G$1" pin="1"/>
+<pinref part="R17" gate="G$1" pin="1"/>
 <pinref part="32U4" gate="A" pin="D-"/>
 <wire x1="29.21" y1="68.58" x2="43.18" y2="68.58" width="0.1524" layer="91"/>
 <label x="35.56" y="68.58" size="1.27" layer="95" rot="R90" xref="yes"/>
@@ -21003,7 +21000,7 @@ Amotec Display part ADM0802A PDF
 </net>
 <net name="D_P" class="0">
 <segment>
-<pinref part="R14" gate="G$1" pin="1"/>
+<pinref part="R16" gate="G$1" pin="1"/>
 <pinref part="32U4" gate="A" pin="D+"/>
 <wire x1="29.21" y1="66.04" x2="43.18" y2="66.04" width="0.1524" layer="91"/>
 <label x="30.48" y="66.04" size="1.27" layer="95" rot="R90" xref="yes"/>
@@ -21071,24 +21068,24 @@ Amotec Display part ADM0802A PDF
 </net>
 <net name="N$11" class="0">
 <segment>
-<pinref part="PB6" gate="1" pin="S1"/>
+<pinref part="PB1" gate="1" pin="S1"/>
 <junction x="17.78" y="-102.87"/>
-<pinref part="PB6" gate="1" pin="S"/>
+<pinref part="PB1" gate="1" pin="S"/>
 <junction x="17.78" y="-100.33"/>
 <wire x1="17.78" y1="-100.33" x2="17.78" y2="-102.87" width="0.1524" layer="91"/>
 <wire x1="17.78" y1="-102.87" x2="19.05" y2="-102.87" width="0.1524" layer="91"/>
-<pinref part="R10" gate="G$1" pin="1"/>
+<pinref part="R12" gate="G$1" pin="1"/>
 <wire x1="20.32" y1="-102.87" x2="19.05" y2="-102.87" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$12" class="0">
 <segment>
-<pinref part="PB5" gate="1" pin="S1"/>
+<pinref part="PB2" gate="1" pin="S1"/>
 <junction x="17.78" y="-58.42"/>
-<pinref part="R6" gate="G$1" pin="1"/>
+<pinref part="R8" gate="G$1" pin="1"/>
 <wire x1="21.59" y1="-60.96" x2="17.78" y2="-60.96" width="0.1524" layer="91"/>
 <wire x1="17.78" y1="-60.96" x2="17.78" y2="-58.42" width="0.1524" layer="91"/>
-<pinref part="PB5" gate="1" pin="S"/>
+<pinref part="PB2" gate="1" pin="S"/>
 <wire x1="17.78" y1="-55.88" x2="17.78" y2="-58.42" width="0.1524" layer="91"/>
 </segment>
 </net>
@@ -21117,7 +21114,7 @@ Amotec Display part ADM0802A PDF
 </instance>
 <instance part="GND21" gate="1" x="22.86" y="73.66" rot="R270"/>
 <instance part="GND20" gate="1" x="20.32" y="58.42" rot="R270"/>
-<instance part="R13" gate="G$1" x="22.86" y="25.4" rot="R90">
+<instance part="R15" gate="G$1" x="22.86" y="25.4" rot="R90">
 <attribute name="OC_FARNELL" x="22.86" y="25.4" size="1.778" layer="96" display="off"/>
 <attribute name="MF" x="22.86" y="25.4" size="1.778" layer="96" display="off"/>
 <attribute name="MPN" x="22.86" y="25.4" size="1.778" layer="96" display="off"/>
@@ -21131,7 +21128,7 @@ Amotec Display part ADM0802A PDF
 <attribute name="MF" x="35.56" y="48.26" size="1.778" layer="96" display="off"/>
 <attribute name="MPN" x="35.56" y="48.26" size="1.778" layer="96" display="off"/>
 </instance>
-<instance part="R12" gate="G$1" x="-2.54" y="58.42" rot="R90">
+<instance part="R14" gate="G$1" x="-2.54" y="58.42" rot="R90">
 <attribute name="OC_FARNELL" x="-2.54" y="58.42" size="1.778" layer="96" display="off"/>
 <attribute name="MF" x="-2.54" y="58.42" size="1.778" layer="96" display="off"/>
 <attribute name="MPN" x="-2.54" y="58.42" size="1.778" layer="96" display="off"/>
@@ -21153,12 +21150,12 @@ Amotec Display part ADM0802A PDF
 <pinref part="LCD1" gate="G$1" pin="VSS"/>
 </segment>
 <segment>
-<pinref part="R13" gate="G$1" pin="1"/>
+<pinref part="R15" gate="G$1" pin="1"/>
 <pinref part="GND22" gate="1" pin="GND"/>
 <wire x1="22.86" y1="20.32" x2="22.86" y2="17.78" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="R12" gate="G$1" pin="1"/>
+<pinref part="R14" gate="G$1" pin="1"/>
 <pinref part="GND3" gate="1" pin="GND"/>
 <wire x1="-2.54" y1="50.8" x2="-2.54" y2="53.34" width="0.1524" layer="91"/>
 </segment>
@@ -21167,7 +21164,7 @@ Amotec Display part ADM0802A PDF
 <segment>
 <wire x1="25.4" y1="63.5" x2="-2.54" y2="63.5" width="0.1524" layer="91"/>
 <pinref part="LCD1" gate="G$1" pin="VO"/>
-<pinref part="R12" gate="G$1" pin="2"/>
+<pinref part="R14" gate="G$1" pin="2"/>
 <junction x="-2.54" y="63.5"/>
 </segment>
 </net>
@@ -21185,7 +21182,7 @@ Amotec Display part ADM0802A PDF
 </net>
 <net name="N$14" class="0">
 <segment>
-<pinref part="R13" gate="G$1" pin="2"/>
+<pinref part="R15" gate="G$1" pin="2"/>
 <wire x1="25.4" y1="30.48" x2="22.86" y2="30.48" width="0.1524" layer="91"/>
 <pinref part="LCD1" gate="G$1" pin="K"/>
 </segment>

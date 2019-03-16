@@ -5368,7 +5368,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <attribute name="OC_FARNELL" value="unknown" x="22.098" y="18.542" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="24.765" y="15.875" size="1.27" layer="27" ratio="10"/>
 </element>
-<element name="PC1" library="SparkFun-LED" package="LED-0603" value="Yellow" x="40.64" y="17.653" smashed="yes" rot="R180">
+<element name="PC6" library="SparkFun-LED" package="LED-0603" value="Blue" x="40.64" y="17.653" smashed="yes" rot="R180">
 <attribute name="MF" value="" x="40.64" y="17.653" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MPN" value="" x="40.64" y="17.653" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="NAME" x="42.418" y="17.018" size="1.27" layer="21" font="vector" ratio="12" rot="R180" align="top-right"/>
@@ -5471,7 +5471,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <attribute name="OC_FARNELL" value="unknown" x="63.754" y="56.388" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="62.484" y="53.975" size="0.6096" layer="27" font="vector" ratio="20"/>
 </element>
-<element name="PE2" library="SparkFun-LED" package="LED-0603" value="Yellow" x="40.64" y="15.748" smashed="yes" rot="R180">
+<element name="PE6" library="SparkFun-LED" package="LED-0603" value="Blue" x="40.64" y="15.748" smashed="yes" rot="R180">
 <attribute name="MF" value="" x="40.386" y="9.398" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MPN" value="" x="40.386" y="9.398" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="NAME" x="42.418" y="15.113" size="1.27" layer="21" font="vector" ratio="12" rot="R180" align="top-right"/>
@@ -5486,7 +5486,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <attribute name="OC_FARNELL" value="unknown" x="36.068" y="12.7" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="34.798" y="13.208" size="1.27" layer="27"/>
 </element>
-<element name="PE1" library="SparkFun-LED" package="LED-0603" value="Yellow" x="40.64" y="19.558" smashed="yes" rot="R180">
+<element name="PE2" library="SparkFun-LED" package="LED-0603" value="Blue" x="40.64" y="19.558" smashed="yes" rot="R180">
 <attribute name="MF" value="" x="40.386" y="13.208" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MPN" value="" x="40.386" y="13.208" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="NAME" x="42.418" y="18.923" size="1.27" layer="21" font="vector" ratio="12" rot="R180" align="top-right"/>
@@ -6277,7 +6277,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <signal name="N$4">
 </signal>
 <signal name="N$1">
-<contactref element="PC1" pad="C"/>
+<contactref element="PC6" pad="C"/>
 <contactref element="R9" pad="2"/>
 <wire x1="39.763" y1="17.653" x2="37.399" y2="17.653" width="0.254" layer="1"/>
 <wire x1="37.399" y1="17.653" x2="37.018" y2="18.034" width="0.254" layer="1"/>
@@ -6514,12 +6514,12 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <wire x1="30.928075" y1="59.198" x2="30.928075" y2="55.177925" width="0.254" layer="1"/>
 </signal>
 <signal name="N$3">
-<contactref element="PE2" pad="C"/>
+<contactref element="PE6" pad="C"/>
 <contactref element="R11" pad="2"/>
 <wire x1="39.763" y1="15.748" x2="37.018" y2="15.748" width="0.254" layer="1"/>
 </signal>
 <signal name="N$7">
-<contactref element="PE1" pad="C"/>
+<contactref element="PE2" pad="C"/>
 <contactref element="R7" pad="2"/>
 <wire x1="32.7" y1="20.32" x2="39.001" y2="20.32" width="0.254" layer="1"/>
 <wire x1="39.001" y1="20.32" x2="39.763" y2="19.558" width="0.254" layer="1"/>
@@ -6530,7 +6530,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <contactref element="PORT_C_E" pad="5"/>
 <wire x1="45.974" y1="10.668" x2="45.974" y2="8.128" width="0.254" layer="1"/>
 <wire x1="52.9336" y1="32.5882" x2="51.816" y2="31.4706" width="0.254" layer="1"/>
-<contactref element="PE1" pad="A"/>
+<contactref element="PE2" pad="A"/>
 <wire x1="51.816" y1="31.4706" x2="51.816" y2="12.954" width="0.254" layer="1"/>
 <wire x1="45.974" y1="10.668" x2="45.974" y2="11.43" width="0.254" layer="1"/>
 <wire x1="45.974" y1="11.43" x2="46.736" y2="12.192" width="0.254" layer="1"/>
@@ -6549,7 +6549,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <wire x1="48.514" y1="10.668" x2="48.514" y2="8.128" width="0.254" layer="1"/>
 <wire x1="48.514" y1="10.668" x2="50.8" y2="12.954" width="0.254" layer="16"/>
 <wire x1="50.8" y1="12.954" x2="65.024" y2="12.954" width="0.254" layer="16"/>
-<contactref element="PE2" pad="A"/>
+<contactref element="PE6" pad="A"/>
 <wire x1="65.024" y1="31.9786" x2="65.024" y2="12.954" width="0.254" layer="1"/>
 <wire x1="64.4144" y1="32.5882" x2="65.024" y2="31.9786" width="0.254" layer="1"/>
 <wire x1="41.517" y1="15.748" x2="47.752" y2="15.748" width="0.254" layer="1"/>
@@ -6565,7 +6565,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <wire x1="52.9336" y1="34.1884" x2="51.562" y2="34.1884" width="0.254" layer="1"/>
 <wire x1="40.894" y1="10.668" x2="40.894" y2="12.446" width="0.254" layer="1"/>
 <wire x1="40.894" y1="12.446" x2="41.656" y2="13.208" width="0.254" layer="1"/>
-<contactref element="PC1" pad="A"/>
+<contactref element="PC6" pad="A"/>
 <wire x1="40.894" y1="8.128" x2="40.894" y2="10.668" width="0.254" layer="1"/>
 <wire x1="51.562" y1="34.1884" x2="50.292" y2="32.9184" width="0.254" layer="1"/>
 <wire x1="50.292" y1="13.716" x2="49.784" y2="13.208" width="0.254" layer="1"/>
